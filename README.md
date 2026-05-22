@@ -30,5 +30,5 @@ Enterprise Java Application is a modular Java-based system developed using Objec
 - REST API Integration
 - Cloud Deployment
 
-  ##OUTPUT
-  ![OUTPUT](SCREENSHOT/enterprise application.png)
+  ## Output Screenshot
+  ![Output](screenshot/output.png)
