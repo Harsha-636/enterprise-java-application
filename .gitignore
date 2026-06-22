@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+products.json
+orders.json
+users.json
